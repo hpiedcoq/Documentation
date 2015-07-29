@@ -10,5 +10,5 @@ Il est suggéré que si vous utilisez travail, vous incluiez la phrase suivante 
 
 Le document original a été amendé, et vous permettra de découvrir les immenses capacités de ce logiciel.
 
-Un projet de traduction d’OpenRefine en français est en cours, sur http://www.poeditor.com nous recherchons des traducteurs pour terminer le travail. Vous êtes bienvenus!
+
 
